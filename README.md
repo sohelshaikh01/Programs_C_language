@@ -2,7 +2,7 @@
 
 This repository contains basic C programs for beginners to understand fundamental concepts of the C programming language.
 
-<img src="https://assets.litebreeze.com/wp-content/uploads/2020/05/12095309/Programming-logic.png" alt="Good JavaScript Projects" style="width: 100%; height: auto;">
+<img src="https://assets.litebreeze.com/wp-content/uploads/2020/05/12095309/Programming-logic.png" alt="Basic C Programs" style="width: 100%; height: auto;">
 
 ## Getting Started
 
